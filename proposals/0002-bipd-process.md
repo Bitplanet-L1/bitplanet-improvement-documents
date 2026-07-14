@@ -1,11 +1,11 @@
-# BIPD-0001: BIPD Process
+# BIPD-0002: BIPD Process
 
-- **Number**: 0001
+- **Number**: 0002
 - **Authors**: Bitplanet Foundation
 - **Type**: Meta
 - **Status**: Draft
 - **Created**: 2026-05-22
-- **Updated**: 2026-05-22
+- **Updated**: 2026-07-02
 
 ## Summary
 

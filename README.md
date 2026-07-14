@@ -6,7 +6,7 @@ terminology, and implementation flow.
 
 This repository tracks technical proposals in the form of Bitplanet Improvement Proposals
 and Documents (BIPDs). The BIPD process is governed by
-[BIPD-0001](./proposals/0001-bipd-process.md).
+[BIPD-0002](./proposals/0002-bipd-process.md).
 
 ## Scope and Relationship to Canonical Decisions
 
@@ -47,7 +47,7 @@ BIPDs move through the following statuses:
 - **Rejected**: Not adopted in current form.
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) and
-[BIPD-0001](./proposals/0001-bipd-process.md) for lifecycle details and transition rules.
+[BIPD-0002](./proposals/0002-bipd-process.md) for lifecycle details and transition rules.
 
 ## Governance Authority (Current Phase)
 
@@ -65,7 +65,7 @@ and document the intended behavior, rationale, and compatibility boundaries.
 
 ## Getting Started
 
-- Read [BIPD-0001](./proposals/0001-bipd-process.md).
+- Read [BIPD-0002](./proposals/0002-bipd-process.md).
 - Start discussion via issue using the BIPD discussion template.
 - Copy the template: [proposals/0000-bipd-template.md](./proposals/0000-bipd-template.md).
 - Submit a pull request with your proposed BIPD.

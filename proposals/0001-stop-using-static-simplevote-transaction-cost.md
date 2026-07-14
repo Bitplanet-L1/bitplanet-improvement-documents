@@ -1,15 +1,13 @@
-# BIPD-0458: Stop using static SimpleVote transaction cost
+# BIPD-0001: Stop using static SimpleVote transaction cost
 
-- **Number**: 0458
-- **Authors**: Bitplanet Core (ported)
+- **Number**: 0001
+- **Authors**: Bitplanet Core
 - **Type**: Standard
 - **Status**: Draft
 - **Created**: 2026-06-21
-- **Updated**: 2026-06-21
+- **Updated**: 2026-07-02
 
 ## Summary
-
-**Ported from Solana SIMD-0458.**
 
 This proposal removes the use of statically defined compute unit (CU) costs for
 SimpleVote transactions in the Bitplanet runtime. SimpleVote transactions MUST
